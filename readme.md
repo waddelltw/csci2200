@@ -1,4 +1,4 @@
-#Welcome to the CSCI 2200 repository!
+# Welcome to the CSCI 2200 repository!
 ---
 `Code` repositories are an important technology in IT. They provide several things:
 1. Code sharing across geographically dispersed team members
